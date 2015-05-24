@@ -10,9 +10,11 @@ public class StartGame : MonoBehaviour {
 	
 	public void Pressed () {
 		SpaceToStart.enabled = false;
+		Application.LoadLevel ("JacobScene");
 	}
 	public void NotPressed(){
 		SpaceToStart.enabled = true;
 	}
+
  
 }
