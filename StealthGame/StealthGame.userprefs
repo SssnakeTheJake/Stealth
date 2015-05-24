@@ -1,11 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Evan's Assets\Script\AIShootScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\crouchscript.js">
     <Files>
+      <File FileName="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="257" Column="1" />
       <File FileName="Assets\Evan's Assets\Script\AIShootScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Jacob's Folder\FanSpin.js" Line="1" Column="1" />
       <File FileName="Assets\Darryl\EnemyMovementLinear.cs" Line="1" Column="1" />
       <File FileName="Assets\Jacob's Folder\FanSpin2.js" Line="1" Column="1" />
+      <File FileName="Assets\crouchscript.js" Line="8" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
