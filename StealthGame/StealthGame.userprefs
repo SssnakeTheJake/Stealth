@@ -1,12 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\JohnAndrewsWork2\CodeDay\Assets\John\scripts\AIMovementScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Evan's Assets\Script\StartGame.cs">
     <Files>
-      <File FileName="..\..\JohnAndrewsWork2\CodeDay\Assets\Evan\Scripts\CapMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets\Evan's Assets\Script\StartGame.cs" Line="22" Column="3" />
-      <File FileName="..\..\JohnAndrewsWork2\CodeDay\Assets\John\scripts\AIMovementScript.cs" Line="1" Column="1" />
-      <File FileName="..\..\JohnAndrewsWork2\CodeDay\Assets\John\scripts\AIShootScript.cs" Line="1" Column="1" />
-      <File FileName="..\..\JohnAndrewsWork2\CodeDay\Assets\John\scripts\AILookingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Evan's Assets\Script\StartGame.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
