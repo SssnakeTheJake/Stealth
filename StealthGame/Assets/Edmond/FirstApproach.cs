@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class EnemyApproach : MonoBehaviour {
+public class FirstApproach : MonoBehaviour {
 
 	public GameObject gui;
 	GameObject gooey;
