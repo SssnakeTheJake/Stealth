@@ -36,7 +36,7 @@ public class AIShootScript : MonoBehaviour {
 			GameObject bullet = (GameObject)Instantiate (Bullet, transform.position, /*Quaternion.Euler(Vector3(0, 0, 90))*/ transform.rotation);
 			
 			bullet.GetComponent<Rigidbody>().velocity = new Vector3(20f * factorX /** factorYOut*/, /*-45f * factorYUp*/-1f , 20f * factorZ /** factorYOut*/);
-			
+			Application.LoadLevel ("Game Over");
 			
 		}
 	}

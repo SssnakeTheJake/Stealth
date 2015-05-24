@@ -51,6 +51,8 @@
      <Compile Include="Assets\Edmond\EnemyApproach.cs" />
      <Compile Include="Assets\Edmond\FirstApproach.cs" />
      <Compile Include="Assets\Edmond\GenericApproach.cs" />
+     <Compile Include="Assets\Edmond\PressSpace.cs" />
+     <Compile Include="Assets\Edmond\PressSpacetoStart.cs" />
      <Compile Include="Assets\Edmond\RetryButton.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
