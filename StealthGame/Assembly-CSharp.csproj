@@ -48,7 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Darryl\EnemyMovementLinear.cs" />
      <Compile Include="Assets\Edmond\EndText.cs" />
-     <Compile Include="Assets\Edmond\EnemyApproach.cs" />
+     <Compile Include="Assets\Edmond\FirstApproach.cs" />
+     <Compile Include="Assets\Edmond\GenericApproach.cs" />
      <Compile Include="Assets\Edmond\RetryButton.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
