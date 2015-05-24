@@ -6,10 +6,19 @@ public class EnemyApproach : MonoBehaviour {
 
 	public GameObject gui;
 	GameObject gooey;
+	public KeyCode destroyer;
+	bool kill;
 
-	// Use this for initialization
+	void Update () {
+		if (Input.GetKeyDown (destroyer) && kill ) {
+			Destroy (gooey.gameObject);
+			Destroy (gameObject);
+		}
+	}
+
 	void OnTriggerEnter () {
 		gooey = (GameObject) Instantiate (gui, new Vector3 (0f, 0f, 0f), Quaternion.identity);
+		kill = true;
 
 	}
 
