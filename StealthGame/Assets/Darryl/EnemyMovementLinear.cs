@@ -27,7 +27,7 @@ public class EnemyMovementLinear : MonoBehaviour {
 				timer2 = 0f;
 			}
 
-	
+		if 
 			//MoveUp = MoveUp * -1f;
 			Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (MoveRight, 0f, 0f);
 			//Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (0f, MoveUp, 0f);
