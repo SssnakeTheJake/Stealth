@@ -48,8 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Darryl\EnemyMovementLinear.cs" />
      <Compile Include="Assets\Edmond\EndText.cs" />
-     <Compile Include="Assets\Edmond\FirstApproach.cs" />
-     <Compile Include="Assets\Edmond\GenericApproach.cs" />
+     <Compile Include="Assets\Edmond\EnemyApproach.cs" />
      <Compile Include="Assets\Edmond\RetryButton.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
@@ -99,6 +98,7 @@
      <Compile Include="Assets\Evan&apos;s Assets\Script\AIShootScript.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\NightVision.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\StartGame.cs" />
+     <Compile Include="Assets\John\ClearWallsBase.cs" />
      <None Include="Assets\Edmond\Standard Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Edmond\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
