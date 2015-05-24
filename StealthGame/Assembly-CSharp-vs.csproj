@@ -93,6 +93,9 @@
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Edmond\Standard Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Evan&apos;s Assets\Script\AIFloat.cs" />
+     <Compile Include="Assets\Evan&apos;s Assets\Script\AILiniearMovement.cs" />
+     <Compile Include="Assets\Evan&apos;s Assets\Script\AIRectangularMovement.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\AIShootScript.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\NightVision.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\StartGame.cs" />
