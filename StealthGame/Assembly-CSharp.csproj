@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Darryl\EnemyMovementLinear.cs" />
+     <Compile Include="Assets\Edmond\EndText.cs" />
      <Compile Include="Assets\Edmond\RetryButton.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\AIShootScript.cs" />
+     <Compile Include="Assets\Evan&apos;s Assets\Script\NightVision.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\StartGame.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
