@@ -19,18 +19,18 @@ public class EnemyMovementLinear : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
-	
+		if (timer <= 0 ) {
+			MoveUp = MoveUp * -1f;
+			Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (1f, 0f, 0f);
+			Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (0f, MoveUp, 0f);
+			timer = 1.5f;
+			
+		}
 	}
 
 	void FixedUpdate () {
 		timer -= .02f;
 
-		if (timer <= 0 ) {
-			MoveUp = MoveUp * -1;
-			Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (1f, 0f, 0f);
-			Robotl.GetComponent<Rigidbody>().velocity = new Vector3 (0f, MoveUp, 0f);
-			timer = 1.5f;
 	
-	}
 }
 }
