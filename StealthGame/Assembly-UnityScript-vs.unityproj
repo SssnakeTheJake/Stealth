@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Jacob&apos;s Folder\FanSpin.js" />
      <Compile Include="Assets\Jacob&apos;s Folder\FanSpin2.js" />
+     <Compile Include="Assets\crouchscript.js" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
