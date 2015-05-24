@@ -1,7 +1,9 @@
 ﻿#pragma strict
+var _rotationSpeed = 90;
 
-function Update () {
+function Update()
 
-transform.Rotate(Vector3(0, 1, 0), 1);
+{
 
+    transform.Rotate(0, 0, _rotationSpeed * Time.deltaTime, Space.World);
 }
