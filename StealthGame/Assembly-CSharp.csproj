@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Darryl\EnemyMovementLinear.cs" />
+     <Compile Include="Assets\Edmond\EndText.cs" />
      <Compile Include="Assets\Edmond\RetryButton.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\AIShootScript.cs" />
      <Compile Include="Assets\Evan&apos;s Assets\Script\StartGame.cs" />
